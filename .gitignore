@@ -1,0 +1,8 @@
+# ingore list #
+
+*.pptx
+*.docx
+*.pdf
+*.mid
+Epoch*
+NotesPage*
